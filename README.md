@@ -47,9 +47,3 @@ I'm [Edin](https://ed1ndev.vercel.app). I started programming at an early age wh
 <img src="assets/icons/nginx.svg" width="22px">
 <img src="assets/icons/npm.svg" width="22px">
 </div>
-
-#   
-
-<br>
-
-I have contributed to `{contributed}` repositories, opened `{pr_opened}` pull requests & `{issues}` issues!
