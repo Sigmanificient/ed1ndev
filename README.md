@@ -15,7 +15,7 @@
     █░░░░░░░░░░░░░░█░░░░░░░░░░░░███░░░░░░░░░░█░░░░░░██████████░░░░░░█
     █████████████████████████████████████████████████████████████████
                                      
-    return('Full-Stack & Discord Bot Developer')
+    Full-Stack & Discord Bot Developer
 ```
 
 # Hello, World!
@@ -53,4 +53,3 @@ I'm [Edin](https://ed1ndev.vercel.app). I started programming at an early age wh
 <br>
 
 I have contributed to `{contributed}` repositories, opened `{pr_opened}` pull requests & `{issues}` issues!
-
