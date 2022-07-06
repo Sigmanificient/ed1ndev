@@ -15,7 +15,7 @@
     █░░░░░░░░░░░░░░█░░░░░░░░░░░░███░░░░░░░░░░█░░░░░░██████████░░░░░░█
     █████████████████████████████████████████████████████████████████
                                      
-    Full-Stack & Discord Bot Developer
+    return('Full-Stack & Discord Bot Developer')
 ```
 
 # Hello, World!
