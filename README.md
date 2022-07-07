@@ -52,5 +52,5 @@ I'm [Edin](https://ed1ndev.vercel.app). I started programming at an early age wh
 
 <br>
 
-I have contributed to `7` repositories, opened `0` pull requests & `0` issues!
+I have contributed to `18` repositories, opened `0` pull requests & `0` issues!
 
